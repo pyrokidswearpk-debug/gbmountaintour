@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Policies - GB Mountain Tour</title>
+<style>
+body { background:#000; color:#fff; font-family:Arial; padding:20px; }
+h1 { color:#FFD400; text-align:center; }
+p { margin-bottom:15px; }
+</style>
+</head>
+
+<body>
+
+<h1>Terms & Conditions</h1>
+
+<p>✔ Food, Transport, Hotel Stay, First Aid included in every package.</p>
+<p>❌ Jeep, Entry Tickets, and all extra services are NOT included.</p>
+<p>❌ Advance payment is non-refundable.</p>
+<p>✔ If the client cancels at least 7 days before departure, the advance is refundable.</p>
+<p>❌ If booking is made 1 day before or same day, advance is NOT refundable.</p>
+<p>✔ If government increases fuel prices suddenly, extra fuel charges will apply.</p>
+<p>✔ If land sliding or any emergency causes extra stay, every person will pay extra for hotel and food.</p>
+
+<a href="index.html" style="color:#1E90FF;">⬅ Back to Home</a>
+
+</body>
+</html>
